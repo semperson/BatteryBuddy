@@ -2,7 +2,7 @@
 Battery Indicator, but cute
 
 ## Installation
-1. Add this repository to your Package Manager: `TBD`
+1. Add this repository to your package manager: `TBD`
 2. Install BatteryBuddy
 
 ## Compiling
@@ -11,7 +11,7 @@ Battery Indicator, but cute
       - No dependencies
     - Swift:
       - Depends on (legacy) Orion
-  - You may want to edit the root `Makefile` to use your Theos SDK and custom toolchain
+  - You may want to edit the root `Makefile` to use your Theos SDK and toolchain
 
 ## License
 If you take code from this repository please link it, or my [Twitter](https://twitter.com/schneelittchen) to your project<br>
