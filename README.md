@@ -1,4 +1,4 @@
-# BatteryBuddy
+# BatteryBuddy ⚡️
 Battery Indicator, but cute
 
 ## Installation
